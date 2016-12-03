@@ -3,6 +3,8 @@ title: Macbook Air 6,2 (2013) Setting it up with Archlinux
 date: 2014-01-18T19:09:36+00:00
 layout: post
 ---
+Archived post.  Please review official documentation such as man page and archwiki for updates.
+
 <h2>Changelog</h2>
 September 6 2015
 <ul>
