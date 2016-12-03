@@ -1,27 +1,7 @@
 ---
-id: 141
 title: 'DWM (Archlinux) &#8211; Patchset description'
 date: 2014-03-12T14:49:44+00:00
-author: Frank S
 layout: post
-guid: http://www.frankshin.com/?p=141
-permalink: /dwm-archlinux-patchset-description/
-dsq_thread_id:
-  - "3471496312"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480722950"
-mashsb_jsonshares:
-  - '{"total":0}'
-categories:
-  - Linux
-tags:
-  - archlinux
-  - dwm
-  - linux
-  - patch
-  - window manager
 ---
 DWM is designed to be under 2000 SLOC (standard lines of code).  Due to this feature, DWM's flexibility is entrusted to its user, you.  This means, you are free to use it as is, or to patch in whatever features you wish.  The only requirement is that the patch is already written by a community member, or that you write it yourself.  Lately, I'm looking to try different patches together and see what feels "right" for me.  Since there isn't a single library for these patches, some digging around is required.
 
