@@ -6,21 +6,6 @@ author: Frank S
 layout: post
 guid: http://www.frankshin.com/?p=149
 permalink: /manjaro-is-manjaro-archlinux-is-archlinux/
-dsq_thread_id:
-  - "3459316964"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480644259"
-mashsb_jsonshares:
-  - '{"total":0}'
-categories:
-  - Linux
-tags:
-  - archlinux
-  - Distro
-  - linux
-  - Manjaro
 ---
 Every so often there is a Manjaro user who believes he/she is running Archlinux showing up on the<a href="https://bbs.archlinux.org/"> Arch Forums</a> or #archlinux on Freenode.  They have a hard time coming to realization that the Manjaro they are using is not Archlinux.  Personally, I do not care what distro is used as everyone has their own preference but we should all know what we are using.  When I took a look at the Manjaro Forums, it is apparent why people think Manjaro is Arch.
 
