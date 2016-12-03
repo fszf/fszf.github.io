@@ -1,27 +1,7 @@
 ---
-id: 56
 title: Macbook Air 6,2 (2013) Setting it up with Archlinux
 date: 2014-01-18T19:09:36+00:00
-author: Frank S
 layout: post
-guid: http://www.frankshin.com/?p=56
-permalink: /macbook-air-62-2013-setting-it-up-with-archlinux/
-bwps_enable_ssl:
-  - ""
-dsq_thread_id:
-  - "3458357222"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480720061"
-mashsb_jsonshares:
-  - '{"total":0}'
-image: /wp-content/uploads/2014/01/FreedomX-1301141-825x510.png
-categories:
-  - Macbook Air
-tags:
-  - archlinux
-  - macbook air
 ---
 <h2>Changelog</h2>
 September 6 2015

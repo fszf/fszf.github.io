@@ -1,23 +1,7 @@
 ---
-id: 38
 title: 'Archlinux &#8211; Exploring Into Tiling Window Managers'
 date: 2014-01-16T23:45:11+00:00
-author: Frank S
 layout: post
-guid: http://www.frankshin.com/?p=38
-permalink: /archlinux-exploring-into-tiling-window-manager/
-bwps_enable_ssl:
-  - ""
-dsq_thread_id:
-  - "3459483643"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480739538"
-mashsb_jsonshares:
-  - '{"total":0}'
-categories:
-  - Linux
 ---
 Mainstream linux news is filled with updates to <a href="https://wiki.archlinux.org/index.php/Desktop_Environarchlinux-moving-into-a-tiling-window-managerment">desktop environments(DE)</a> like Gnome, KDE, Cinnamon, Unity, XFCE, LXDE, etc.  As a newcomer to the linux world, these DEs are the only choices I had to try.  Each one has its advantages and disadvantages such as ram overhead of simply running the DE to the choice of preferred apps they utilize GTK vs QT.  But that is not the point of discussion for this post!
 
