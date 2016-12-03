@@ -17,6 +17,7 @@ mashsb_jsonshares:
 categories:
   - Linux
 ---
+DWM (Archlinux) - March Screenshot
 <strong><span style="color: #ff0000;">Edit: Sept 6 2015 - Check out my latest screenshot<a style="color: #ff0000;" href="http://frankshin.com/dwm-screenshot-update/"> here.</a></span></strong>
 
 DWM has been my WM of choice due to its simplicity, written in C, and a good knowledgable group of enthusiast at the Arch Forums.  Through my learning of DWM, an attempt at screenshotting each month will be made to journal my progress.
