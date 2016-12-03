@@ -1,34 +1,11 @@
 ---
-id: 10
 title: Installing Archlinux on Macbook Air 2013
 date: 2014-01-13T22:49:39+00:00
-author: Frank S
 layout: post
-guid: http://www.frankshin.com/?p=10
-permalink: /installing-archlinux-on-macbook-air-2013/
-bwps_enable_ssl:
-  - ""
-dsq_thread_id:
-  - "3458354469"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480730953"
-mashsb_jsonshares:
-  - '{"total":0}'
-categories:
-  - Macbook Air
-tags:
-  - arch
-  - archlinux
-  - linux
-  - macbook
-  - macbook air
-  - macbook air arch linux
-  - macbook air archlinux
-  - Macbook-Air-2013
 ---
-[caption id="attachment_32" align="aligncenter" width="424"]<a href="http://frankshin.com/wp-content/uploads/2014/01/FreedomX-1301141.png"><img class="wp-image-32 " src="http://frankshin.com/wp-content/uploads/2014/01/FreedomX-1301141.png" alt="Macbook Air 6,2 Archlinux" width="424" height="265" /></a> Macbook Air 6,2 Archlinux (config from Jason W Ryan @ https://bitbucket.org/jasonwryan)[/caption]
+<a href="http://frankshin.com/wp-content/uploads/2014/01/FreedomX-1301141.png"><img class="wp-image-32 " src="http://frankshin.com/wp-content/uploads/2014/01/FreedomX-1301141.png" alt="Macbook Air 6,2 Archlinux" width="424" height="265" /></a> 
+
+> Macbook Air 6,2 Archlinux (config from Jason W Ryan @ https://bitbucket.org/jasonwryan)
 
 This Christmas I decided to gift myself a new portable computer as my previous Asus 1005ha was on its deathbed.  When the new 13" mid 2013 Macbook Air arrived, I booted it up for the first time.  Upgraded any firmware needed and backed up the <a href="https://wiki.archlinux.org/index.php/MacBook#Installation_of_Mac_OS_X_and_firmware_update" target="_blank">Mac files as stated in the Arch Wiki</a>.  Also to be noted is to turn down the volume all the way and exit Mac OS X to avoid the chime at boot up.
 
