@@ -1,21 +1,6 @@
 ---
-id: 118
 title: 'DWM (Archlinux) &#8211; March Screenshot'
-date: 2014-03-09T22:46:23+00:00
-author: Frank S
 layout: post
-guid: http://www.frankshin.com/?p=118
-permalink: /dwm-march-screenshot/
-dsq_thread_id:
-  - "3472690902"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480722951"
-mashsb_jsonshares:
-  - '{"total":0}'
-categories:
-  - Linux
 ---
 DWM (Archlinux) - March Screenshot
 <strong><span style="color: #ff0000;">Edit: Sept 6 2015 - Check out my latest screenshot<a style="color: #ff0000;" href="http://frankshin.com/dwm-screenshot-update/"> here.</a></span></strong>

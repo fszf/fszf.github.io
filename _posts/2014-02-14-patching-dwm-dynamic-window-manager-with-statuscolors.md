@@ -1,23 +1,6 @@
 ---
-id: 90
 title: Patching DWM (Dynamic Window Manager) with statuscolors
-date: 2014-02-14T15:18:03+00:00
-author: Frank S
 layout: post
-guid: http://www.frankshin.com/?p=90
-permalink: /patching-dwm-dynamic-window-manager-with-statuscolors/
-bwps_enable_ssl:
-  - ""
-dsq_thread_id:
-  - "3465911275"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480727782"
-mashsb_jsonshares:
-  - '{"total":0}'
-categories:
-  - Linux
 ---
 After you have <a href="https://wiki.archlinux.org/index.php/Dwm">DWM installed </a>and running, the first step in customizing DWM is to patch it.  Today we are going to look at adding in a patch that will enable colours in the statusbar.
 
