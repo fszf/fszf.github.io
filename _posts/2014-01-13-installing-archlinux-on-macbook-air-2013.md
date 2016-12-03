@@ -13,7 +13,8 @@ At first I followed the wiki by installing rEFInd in Mac OS X into the ESP and s
 <h2>Ryan Gehrig's Steps</h2>
 I stumbled across a wonderful <a href="http://ryangehrig.com/index.php/arch-linux-on-macbook-air-2013/" target="_blank">blog by Ryan Gehrig</a> that described this process.  Thank you Ryan.  This is my first EFI device and to be honest, I was head over heels even after reading wiki after wiki.  For the sake of my own reference, I've copied his process here in this post.  Please note that all installation steps belong to Ryan Gehrig.
 <blockquote>I found it very difficult to get Arch booting via EFI as all directions I found were inconsistent. You can also try REFind, as I was able to at least get that to boot up instead of my old broken grub prompt, but I got nowhere with Refind, so I went with reinstalling grub in this article. This is what my system currently uses. No MBR, grub is booted via EFI. For partitioning, you can use a 200MB HFS+ partition to store your EFI data, or you can use FAT32 (vfat). I went the VFAT route and it worked for me, so this guide assumes you have a VFAT partition for EFI, with the scheme like this:</blockquote>
-<pre>[root@mac ~]# fdisk -l
+````
+[root@mac ~]# fdisk -l
 
 Disk /dev/sda: 113 GiB, 121332826112 bytes, 236978176 sectors
 Units: sectors of 1 * 512 = 512 bytes
@@ -26,9 +27,11 @@ Device Start End Size Type
 /dev/sda1 2048 411647 200M Microsoft basic data
 /dev/sda2 411648 935935 256M Linux filesystem
 /dev/sda3 935936 9324543 4G Linux swap
-/dev/sda4 9324544 236978142 108.6G Linux filesystem</pre>
+/dev/sda4 9324544 236978142 108.6G Linux filesystem
+````
 <blockquote>I used the following to setup the filesystems:</blockquote>
-<pre>mkfs.vfat -F 32 /dev/sda1
+````
+mkfs.vfat -F 32 /dev/sda1
 mkfs.ext2 /dev/sda2
 mkswap /dev/sda3
 swapon /dev/sda3
@@ -40,9 +43,11 @@ mkdir /mnt/boot
 mount /dev/sda2 /mnt/boot
 mkdir /mnt/boot/efi
 
-mount /dev/sda1 /mnt/boot/efi</pre>
+mount /dev/sda1 /mnt/boot/efi
+````
 <blockquote>Finish your installation according to the main guide (skipping anything after the bootloader), now chroot into your installation, and setup Grub:</blockquote>
-<pre>arch-chroot /mnt
+````
+arch-chroot /mnt
 
 pacman -S grub efibootmgr
 
@@ -55,6 +60,7 @@ cp /boot/efi/EFI/grub/grub.cfg /boot/grub/grub.cfg
 # Not necessary but hey, helped me out
 # (Frank Edit) I needed to do the below line to make it work
 cp /boot/efi/EFI/grub/grubx64.efi /boot/efi/EFI/boot/bootx64.efi</pre>
+````
 <blockquote>Note that above, –efi-directory means that grub will append a directory named “EFI” (caps, yes) to whatever you specify. As for –bootloader-id, this gets a directory created in the –efi-directory you specified, so in this example, it’d create the directory /boot/efi/EFI/grub.
 
 If you need to wipe out your MBR for some reason, see this page: https://bbs.archlinux.org/viewtopic.php?id=119702</blockquote>
