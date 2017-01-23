@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hurdles and Moving Forward
+title: Adding Muttprint to Mutt 
 ---
 
 Switching my work computer to linux has been a challenge.  I am not a well learned linux user and have only learned by solving these challenges.  At work I wanted to print from Mutt and stumbled across [muttprint](https://aur.archlinux.org/packages/muttprint/).
