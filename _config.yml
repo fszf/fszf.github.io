@@ -49,6 +49,12 @@ google_analytics:
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+
+#
+## Testing
+#
+theme: jekyll-theme-minimal
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
