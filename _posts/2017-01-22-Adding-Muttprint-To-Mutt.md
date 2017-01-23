@@ -13,36 +13,37 @@ set print_command="/usr/bin/muttprint %s -p {PrinterName}"
 
 For me, I had to change it to:
 
-```
+```bash
 set print_command="/usr/bin/muttprint %s"
 ```
 
 And edit line 9 of /etc/Muttprintrc:
 
-```
+```bash
 PRINTER="lp"
 ```
 
 to:
-```
+
+```bash
 PRINTER="Brother_HL-L5200DW_series"
 ```
 
 To find the printer name I ran:
 
-```
+```bash
 lpstat -s
 ```
 
 And the provided output was:
 
-```
+```bash
 system default destination: Brother_HL-L5200DW_series
 device for Brother_HL-L5200DW_series: socket://192.168.88.202
 ```
 
 Back to editing muttrc, ensure that your key binding for 'print-message' is defined:
 
-```
+```bash
 bind    pager   P           print-message
 ```
