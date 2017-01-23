@@ -7,7 +7,7 @@ Switching my work computer to linux has been a challenge.  I am not a well learn
 
 The [mutt archwiki](https://wiki.archlinux.org/index.php/mutt) provides an example syntax to add into muttrc:
 
-```
+```bash
 set print_command="/usr/bin/muttprint %s -p {PrinterName}"
 ```
 
