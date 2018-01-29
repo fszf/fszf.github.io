@@ -1,27 +1,8 @@
 ---
-id: 431
 title: Xposed Finally Arrives For Lollipop Roms Armv7 Only
 date: 2015-02-14T11:12:32+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=431
-permalink: /xposed-finally-arrives-lollipop-roms-armv7/
-dsq_thread_id:
-  - "3516055914"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480666717"
-mashsb_jsonshares:
-  - '{"total":0}'
-categories:
-  - Note 2
-tags:
-  - android
-  - N7105
-  - note 2
-  - SGH-I317
-  - xposed
 ---
 <h3><a href="http://frankshin.com/wp-content/uploads/2015/02/Xposed-Framework.jpg"><img class=" size-medium wp-image-432 aligncenter" src="http://frankshin.com/wp-content/uploads/2015/02/Xposed-Framework-300x114.jpg" alt="Xposed-Framework" width="300" height="114" /></a></h3>
 <h3>Xposed Framework For Samsung Galaxy Note 2 (n7105, sgh-i317, sgh-i317m)</h3>

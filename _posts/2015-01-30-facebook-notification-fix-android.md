@@ -1,30 +1,8 @@
 ---
-id: 333
 title: Facebook Notification Fix For Android
 date: 2015-01-30T14:39:20+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=333
-permalink: /facebook-notification-fix-android/
-dsq_thread_id:
-  - "3470971178"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480743234"
-mashsb_jsonshares:
-  - '{"total":0}'
-mashsb_shorturl:
-  - ""
-categories:
-  - Note 2
-tags:
-  - android
-  - N7105
-  - note 2
-  - samsung galaxy
-  - SGH-I317
-  - SGH-I317M
 ---
 <a href="http://frankshin.com/wp-content/uploads/2015/01/top.png"><img class="  wp-image-337 aligncenter" src="http://frankshin.com/wp-content/uploads/2015/01/top.png" alt="top" width="91" height="91" /></a>
 

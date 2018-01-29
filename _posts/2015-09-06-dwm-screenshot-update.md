@@ -1,27 +1,8 @@
 ---
-id: 511
 title: DWM screenshot update
 date: 2015-09-06T16:59:52+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=511
-permalink: /dwm-screenshot-update/
-mashsb_timestamp:
-  - "1480522105"
-mashsb_shares:
-  - "0"
-mashsb_jsonshares:
-  - '{"total":0}'
-dsq_thread_id:
-  - "4104513600"
-categories:
-  - Linux
-  - Macbook Air
-tags:
-  - dwm
-  - macbook air
-  - screenshot
-  - tiling wm
 ---
 Wow time flies. I just realized it's been awhile since I posted my recent screenshot. Still using the same patchset that you can find in my <a href="https://github.com/frank604/dwm">github.</a>
 

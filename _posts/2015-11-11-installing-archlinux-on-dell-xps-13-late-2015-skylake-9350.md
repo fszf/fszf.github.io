@@ -1,26 +1,8 @@
 ---
-id: 546
 title: Installing Archlinux on Dell XPS 13 2016 Skylake 9350
 date: 2015-11-11T20:58:25+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=546
-permalink: /installing-archlinux-on-dell-xps-13-late-2015-skylake-9350/
-mashsb_timestamp:
-  - "1480719642"
-mashsb_shares:
-  - "0"
-mashsb_jsonshares:
-  - '{"total":0}'
-dsq_thread_id:
-  - "4311256058"
-categories:
-  - Dell XPS 13 2015 Skylake 9350
-tags:
-  - archlinux
-  - dell xps 13
-  - dell xps 9350
-  - skylake
 ---
 [caption id="attachment_547" align="aligncenter" width="300"]<a href="http://frankshin.com/wp-content/uploads/2015/11/dell-xps-13-2015-product-photos-01.jpg"><img class="size-medium wp-image-547" src="http://frankshin.com/wp-content/uploads/2015/11/dell-xps-13-2015-product-photos-01-300x169.jpg" alt="dell-xps-13-2015-archlinux" width="300" height="169" /></a> dell-xps-13-2015-archlinux[/caption]
 <h3>Changelog</h3>

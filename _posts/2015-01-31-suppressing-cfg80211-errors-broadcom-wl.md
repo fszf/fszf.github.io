@@ -1,32 +1,8 @@
 ---
-id: 350
 title: Suppressing CFG80211 Errors In Broadcom-wl
 date: 2015-01-31T15:09:49+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=350
-permalink: /suppressing-cfg80211-errors-broadcom-wl/
-dsq_thread_id:
-  - "3473765236"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480701868"
-mashsb_jsonshares:
-  - '{"total":0}'
-categories:
-  - Linux
-  - Macbook Air
-tags:
-  - archlinux
-  - broadcom
-  - cfg80211
-  - dmesg
-  - error
-  - journalctl
-  - linux
-  - syslog
-  - wl
 ---
 <a href="http://frankshin.com/wp-content/uploads/2015/01/2015-01-31-144257_1440x900_scrot-e1422744216907.png"><img class=" size-medium wp-image-351 aligncenter" src="http://frankshin.com/wp-content/uploads/2015/01/2015-01-31-144257_1440x900_scrot-e1422744216907-300x208.png" alt="cfg80211" width="300" height="208" /></a>
 <h3>Annoying cfg80211 Errors In Dmesg/Journalctl</h3>

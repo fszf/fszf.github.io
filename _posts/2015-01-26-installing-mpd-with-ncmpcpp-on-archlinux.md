@@ -1,24 +1,8 @@
 ---
-id: 210
 title: Installing MPD with NCMPCPP on Archlinux
 date: 2015-01-26T19:14:43+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=210
-permalink: /installing-mpd-with-ncmpcpp-on-archlinux/
-dsq_thread_id:
-  - "3458667293"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480718025"
-mashsb_jsonshares:
-  - '{"total":0}'
-mashsb_shorturl:
-  - ""
-  - ""
-categories:
-  - Linux
 ---
 <h3><a href="http://frankshin.com/wp-content/uploads/2015/01/2015-01-26-191341_1440x900_scrot.png"><img class=" size-medium wp-image-217 aligncenter" src="http://frankshin.com/wp-content/uploads/2015/01/2015-01-26-191341_1440x900_scrot-300x188.png" alt="2015-01-26-191341_1440x900_scrot" width="300" height="188" /></a></h3>
 <h3>Installing MPD with NCMPCPP on Archlinux</h3>

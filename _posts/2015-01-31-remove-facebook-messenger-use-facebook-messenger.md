@@ -1,27 +1,8 @@
 ---
-id: 346
 title: Remove Facebook Messenger! Use Facebook Messenger Again
 date: 2015-01-31T11:20:21+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=346
-permalink: /remove-facebook-messenger-use-facebook-messenger/
-dsq_thread_id:
-  - "3473285105"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480012041"
-mashsb_jsonshares:
-  - '{"total":0}'
-categories:
-  - Note 2
-tags:
-  - android
-  - facebook
-  - fix
-  - messenger
-  - note 2
 ---
 <a href="http://frankshin.com/wp-content/uploads/2015/01/1.jpg"><img class=" size-medium wp-image-347 aligncenter" src="http://frankshin.com/wp-content/uploads/2015/01/1-300x213.jpg" alt="Facebook enable chat" width="300" height="213" /></a>
 

@@ -1,29 +1,8 @@
 ---
-id: 193
 title: 'Cyanide 4 &#8211; Lollipop Rom for (N7105, SGH-I317, SGH-I317m) Note 2'
 date: 2015-01-26T13:12:46+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=193
-permalink: /cyanide-4-lollipop-rom-n7105-sgh-i317-sgh-i317m-note-2/
-dsq_thread_id:
-  - "3458040041"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480737996"
-mashsb_jsonshares:
-  - '{"total":0}'
-categories:
-  - Note 2
-tags:
-  - Cyanide
-  - lollipop
-  - N7105
-  - note
-  - note 2
-  - SGH-I317
-  - SGH-I317M
 ---
 &nbsp;
 <h2 style="text-align: center;"> <a href="http://frankshin.com/wp-content/uploads/2015/01/Screenshot_2015-01-26-12-35-20-e1422306921174.png"><img class="alignnone size-medium wp-image-194" src="http://frankshin.com/wp-content/uploads/2015/01/Screenshot_2015-01-26-12-35-20-169x300.png" alt="Screenshot_2015-01-26-12-35-20" width="169" height="300" /></a></h2>

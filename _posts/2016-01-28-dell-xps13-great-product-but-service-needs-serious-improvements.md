@@ -1,30 +1,13 @@
 ---
-id: 591
 title: '@Dell #XPS13 great product but service needs serious improvements'
 date: 2016-01-28T11:59:49+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=591
-permalink: /dell-xps13-great-product-but-service-needs-serious-improvements/
-mashsb_timestamp:
-  - "1480700986"
-mashsb_shares:
-  - "0"
-mashsb_jsonshares:
-  - '{"total":0}'
-dsq_thread_id:
-  - "4531733475"
-categories:
-  - Dell XPS 13 2015 Skylake 9350
-tags:
-  - dell
-  - xps
-  - xps 13
-  - xps13
 ---
 <span style="color: #ff0000;">Disclaimer: This is mostly a rant</span>
 
 I was very happy to receive my Dell XPS 13 9350 in November.  It was the laptop that fit my needs like a glove.  Unfortunately, a corrupted bios upgrade forced me to send it in for RMA repairs.  This is where my impression of Dell's product vs their customer service gets ripped apart into two different worlds.  Unlike the well built laptop the customer service needs serious improvements.
+
 <h3>Timeline of Customer Service</h3>
 <strong>Dec 9, 2015</strong> - Corrupted bios and phoned Dell to arrange a RMA.  The agent on the phone promised a swift service.  I was promised a full repair and getting my laptop back in my hands before Christmas.
 

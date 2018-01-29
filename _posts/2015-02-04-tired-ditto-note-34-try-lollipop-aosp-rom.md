@@ -1,28 +1,8 @@
 ---
-id: 392
 title: Tired Of Ditto Note 3/4? Try Out Lollipop AOSP Rom
 date: 2015-02-04T12:37:27+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=392
-permalink: /tired-ditto-note-34-try-lollipop-aosp-rom/
-dsq_thread_id:
-  - "3486652757"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480699493"
-mashsb_jsonshares:
-  - '{"total":0}'
-categories:
-  - Note 2
-tags:
-  - agni kernel
-  - android
-  - ditto note 4
-  - note 2
-  - samsung
-  - touchwiz
 ---
 <a href="http://frankshin.com/wp-content/uploads/2015/02/attachment.jpeg"><img class=" size-medium wp-image-393 aligncenter" src="http://frankshin.com/wp-content/uploads/2015/02/attachment-300x130.jpeg" alt="attachment" width="300" height="130" /></a>
 

@@ -1,29 +1,8 @@
 ---
-id: 173
 title: 'Macbook Air 2013 (6,2) Getting too hot to handle &#8211; How to fix it (WIP)'
 date: 2015-01-23T19:00:56+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=173
-permalink: /macbook-air-2013-62-getting-too-hot-to-handle-how-to-fix-it-wip/
-dsq_thread_id:
-  - "3458061029"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480721140"
-mashsb_jsonshares:
-  - '{"total":0}'
-image: /wp-content/uploads/2015/01/2015-01-23-182224_1440x900_scrot.png
-categories:
-  - Macbook Air
-tags:
-  - archlinux
-  - battery
-  - cpu
-  - linux
-  - macbook
-  - macbook air
 ---
 <span style="color: #ff0000;"><strong>Edit: Feb 27, 2015 - <a style="color: #ff0000;" href="http://frankshin.com/macbook-air-2013-62-better-battery-life-in-arch-linux/">Battery saving post is UP!</a></strong></span>
 

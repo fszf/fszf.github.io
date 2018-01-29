@@ -1,26 +1,8 @@
 ---
-id: 225
 title: New Cyanide V.5 Not So Good For SGH-I317m
 date: 2015-01-28T13:19:30+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=225
-permalink: /new-cyanide-v-5-not-good-sgh-i317m/
-dsq_thread_id:
-  - "3465342045"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480048837"
-mashsb_jsonshares:
-  - '{"total":0}'
-categories:
-  - Note 2
-tags:
-  - android
-  - cm12
-  - lollipop
-  - note 2
 ---
 <a href="http://frankshin.com/wp-content/uploads/2015/01/vngvsy.png"><img class=" size-medium wp-image-226 aligncenter" src="http://frankshin.com/wp-content/uploads/2015/01/vngvsy-300x86.png" alt="vngvsy" width="300" height="86" /></a>
 <h3>Time To Update?</h3>

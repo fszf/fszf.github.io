@@ -1,30 +1,8 @@
 ---
-id: 179
 title: Installing Archlinux alongside Mac OSX with Refind
 date: 2015-01-24T15:21:40+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=179
-permalink: /installing-archlinux-alongside-mac-osx-with-refind/
-dsq_thread_id:
-  - "3458628486"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480699046"
-mashsb_jsonshares:
-  - '{"total":0}'
-mashsb_shorturl:
-  - ""
-image: /wp-content/uploads/2015/01/2015-01-25-000215_1440x900_scrot.png
-categories:
-  - Macbook Air
-tags:
-  - archlinux
-  - install
-  - linux
-  - macbook
-  - macbook air
 ---
 Last year when I first got my Macbook Air 2013 (6,2) I immediately set off to delete Mac OSX and install a standalone Arch.  I even wrote a post about it <a href="http://frankshin.com/installing-archlinux-on-macbook-air-2013/">here</a>. At that point in time I've never used Mac OSX and wasn't interested in it.  The problem with running an Arch only setup was that my wife would get annoyed because she couldn't use my laptop.  So this winter break I reinstalled Mavericks and upgraded it to Yosemite and set off to do a dual boot setup with Arch.  My first worry was disk space.  I have a 128gb ssd drive on my MBA and splitting it in half would divide my precious data space for music and movies.
 

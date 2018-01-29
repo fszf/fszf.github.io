@@ -1,28 +1,8 @@
 ---
-id: 262
 title: Android Fixes/APKS/Misc For Note 2 (n7105, sgh-i317, sgh-i317m)
 date: 2015-01-29T17:10:59+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=262
-permalink: /android-fixesapksmisc-note-2-n7105-sgh-i317-sgh-i317m/
-dsq_thread_id:
-  - "3468126418"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480696670"
-mashsb_jsonshares:
-  - '{"total":0}'
-categories:
-  - Note 2
-tags:
-  - android
-  - kit kat
-  - lollipop
-  - N7105
-  - note 2
-  - SGH-I317
 ---
 [caption id="attachment_264" align="aligncenter" width="187"]<a href="http://frankshin.com/wp-content/uploads/2015/01/a4y3urys-e1422580229382.jpg"><img class=" wp-image-264" src="http://frankshin.com/wp-content/uploads/2015/01/a4y3urys-e1422580229382-280x300.jpg" alt="Android Recovery" width="187" height="200" /></a> Android Recovery[/caption]
 <h3>My Library For Note 2</h3>

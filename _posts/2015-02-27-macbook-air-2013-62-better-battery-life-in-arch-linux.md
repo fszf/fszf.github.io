@@ -1,25 +1,8 @@
 ---
-id: 442
 title: 'Macbook Air 2013 6,2 &#8211; Better battery life in Arch Linux'
 date: 2015-02-27T09:55:56+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=442
-permalink: /macbook-air-2013-62-better-battery-life-in-arch-linux/
-dsq_thread_id:
-  - "3553796981"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480720393"
-mashsb_jsonshares:
-  - '{"total":0}'
-categories:
-  - Macbook Air
-tags:
-  - archlinux
-  - battery life
-  - macbook air
 ---
 <a href="http://frankshin.com/wp-content/uploads/2015/02/battery.jpg"><img class=" size-medium wp-image-444 aligncenter" src="http://frankshin.com/wp-content/uploads/2015/02/battery-300x168.jpg" alt="battery life" width="300" height="168" /></a>
 

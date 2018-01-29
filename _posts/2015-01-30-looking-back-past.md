@@ -1,26 +1,8 @@
 ---
-id: 274
 title: Looking Back In The Past
 date: 2015-01-30T14:21:36+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=274
-permalink: /looking-back-past/
-dsq_thread_id:
-  - "3470929718"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480522074"
-mashsb_jsonshares:
-  - '{"total":0}'
-categories:
-  - Social
-tags:
-  - family
-  - life
-  - love
-  - relationship
 ---
 <a href="http://frankshin.com/wp-content/uploads/2015/01/556520_544585211005_189263047_n.jpg"><img class=" size-medium wp-image-275 aligncenter" src="http://frankshin.com/wp-content/uploads/2015/01/556520_544585211005_189263047_n-300x225.jpg" alt="Riding" width="300" height="225" /></a>
 

@@ -1,26 +1,8 @@
 ---
-id: 541
 title: Leaving Macbook Air 2013 for Dell XPS 13 Skylake
 date: 2015-10-29T20:19:35+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=541
-permalink: /leaving-macbook-air-2013-for-dell-xps-13-skylake/
-mashsb_timestamp:
-  - "1480522066"
-mashsb_shares:
-  - "0"
-mashsb_jsonshares:
-  - '{"total":0}'
-dsq_thread_id:
-  - "4272900148"
-categories:
-  - Macbook Air
-tags:
-  - apple
-  - dell xps 13
-  - macbook
-  - macbook air
 ---
 <a href="http://frankshin.com/wp-content/uploads/2015/10/bye.jpg"><img class=" size-medium wp-image-542 aligncenter" src="http://frankshin.com/wp-content/uploads/2015/10/bye-300x300.jpg" alt="bye" width="300" height="300" /></a>
 <h3><strong>Leaving Macbook Air 6,2 2013 for a Dell XPS 13 Skylake</strong></h3>

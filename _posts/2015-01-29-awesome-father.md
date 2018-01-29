@@ -1,27 +1,8 @@
 ---
-id: 257
 title: How Awesome It Is To Be A Father
 date: 2015-01-29T13:41:57+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=257
-permalink: /awesome-father/
-dsq_thread_id:
-  - "3467670778"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480522055"
-mashsb_jsonshares:
-  - '{"total":0}'
-categories:
-  - Social
-tags:
-  - family
-  - father
-  - life
-  - parenthood
-  - parenting
 ---
 [caption id="attachment_258" align="aligncenter" width="225"]<a href="http://frankshin.com/wp-content/uploads/2015/01/olivia.jpg"><img class="size-medium wp-image-258" src="http://frankshin.com/wp-content/uploads/2015/01/olivia-225x300.jpg" alt="olivia shin" width="225" height="300" /></a> Olivia Shin yawning on grandma's lap[/caption]
 <h3>I'm Pregnant (No! Not Me You Fool!)</h3>

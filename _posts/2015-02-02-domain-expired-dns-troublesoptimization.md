@@ -1,26 +1,8 @@
 ---
-id: 367
 title: Domain Expired And DNS Troubles/Optimization
 date: 2015-02-02T19:03:56+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=367
-permalink: /domain-expired-dns-troublesoptimization/
-dsq_thread_id:
-  - "3480113841"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480521987"
-mashsb_jsonshares:
-  - '{"total":0}'
-categories:
-  - Linux
-tags:
-  - dns
-  - domain
-  - linux
-  - server
 ---
 <a href="http://frankshin.com/wp-content/uploads/2015/02/server-down-it-was-aliens.jpg"><img class=" size-medium wp-image-368 aligncenter" src="http://frankshin.com/wp-content/uploads/2015/02/server-down-it-was-aliens-300x263.jpg" alt="server-down-it-was-aliens" width="300" height="263" /></a>
 

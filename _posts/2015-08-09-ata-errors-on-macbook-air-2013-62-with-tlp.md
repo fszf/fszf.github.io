@@ -1,27 +1,8 @@
 ---
-id: 483
 title: ATA errors on macbook air 2013 6,2 with TLP after suspend/resume
 date: 2015-08-09T19:30:49+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=483
-permalink: /ata-errors-on-macbook-air-2013-62-with-tlp/
-mashsb_timestamp:
-  - "1480522080"
-mashsb_shares:
-  - "0"
-mashsb_jsonshares:
-  - '{"total":0}'
-dsq_thread_id:
-  - "4018440130"
-categories:
-  - Linux
-  - Macbook Air
-tags:
-  - archlinux
-  - ata error
-  - macbook air
-  - suspend
 ---
 I haven't checked my dmesg in awhile and when I did, I was shocked to see it flood with ATA errors.  The errors look similar to:
 <pre><code>[  +0.000001] ata1.00: status: { DRDY }

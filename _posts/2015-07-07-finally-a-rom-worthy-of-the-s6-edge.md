@@ -1,27 +1,8 @@
 ---
-id: 476
 title: Finally A Rom Worthy Of The S6 Edge
 date: 2015-07-07T16:39:38+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=476
-permalink: /finally-a-rom-worthy-of-the-s6-edge/
-mashsb_timestamp:
-  - "1480560239"
-mashsb_shares:
-  - "0"
-mashsb_jsonshares:
-  - '{"total":0}'
-dsq_thread_id:
-  - "3913785279"
-categories:
-  - S6 Edge
-tags:
-  - galaxy
-  - rom
-  - s6
-  - s6 edge
-  - samsung
 ---
 <a href="http://frankshin.com/wp-content/uploads/2015/07/Screenshot_2015-07-07-16-16-34.png"><img class=" size-medium wp-image-477 aligncenter" src="http://frankshin.com/wp-content/uploads/2015/07/Screenshot_2015-07-07-16-16-34-169x300.png" alt="Screenshot_2015-07-07-16-16-34" width="169" height="300" /></a>
 

@@ -1,28 +1,8 @@
 ---
-id: 232
 title: Solarized RXVT with VIM in Archlinux
 date: 2015-01-28T14:23:45+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=232
-permalink: /solarized-rxvt-vim-archlinux/
-dsq_thread_id:
-  - "3464460173"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480743278"
-mashsb_jsonshares:
-  - '{"total":0}'
-mashsb_shorturl:
-  - ""
-categories:
-  - Linux
-tags:
-  - archlinux
-  - rxvt
-  - solarized
-  - vim
 ---
 <a href="http://frankshin.com/wp-content/uploads/2015/01/2015-01-28-133518_1440x900_scrot.png"><img class=" size-medium wp-image-233 aligncenter" src="http://frankshin.com/wp-content/uploads/2015/01/2015-01-28-133518_1440x900_scrot-300x188.png" alt="2015-01-28-133518_1440x900_scrot" width="300" height="188" /></a>
 <h3>Solarized RXVT with VIM</h3>

@@ -1,25 +1,8 @@
 ---
-id: 416
 title: 'Archlinux Beginner&#8217;s Bible'
 date: 2015-02-07T12:53:24+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=416
-permalink: /archlinux-beginners-bible/
-dsq_thread_id:
-  - "3494958356"
-mashsb_shares:
-  - "0"
-mashsb_timestamp:
-  - "1480696165"
-mashsb_jsonshares:
-  - '{"total":0}'
-categories:
-  - Linux
-tags:
-  - archlinux
-  - beginner
-  - community
 ---
 <a href="http://frankshin.com/wp-content/uploads/2015/02/archlinuxlogo.png"><img class=" size-medium wp-image-417 aligncenter" src="http://frankshin.com/wp-content/uploads/2015/02/archlinuxlogo-300x251.png" alt="archlinuxlogo" width="300" height="251" /></a>
 

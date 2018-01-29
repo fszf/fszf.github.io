@@ -1,28 +1,8 @@
 ---
-id: 524
 title: Global Dark Firefox Userstyle CSS (Based off of Twily)
 date: 2015-09-07T13:25:20+00:00
 author: Frank S
 layout: post
-guid: http://frankshin.com/?p=524
-permalink: /global-dark-firefox-userstyle-css-based-off-of-twily/
-mashsb_timestamp:
-  - "1480612553"
-mashsb_shares:
-  - "0"
-mashsb_jsonshares:
-  - '{"total":0}'
-dsq_thread_id:
-  - "4107350073"
-categories:
-  - Linux
-  - Macbook Air
-tags:
-  - css
-  - firefox
-  - global dark
-  - twily
-  - userstyle
 ---
 Lately I've been doing my browsing at night in bed with the wife next to me.  She can't stand light when she falls asleep and I sleep later than her usually.  This made me search for a global dark theme.  I went to <a href="https://userstyles.org/">userstyles.org</a> and tried all the global dark css themes they had (midnight surfing, global dark style, and myfavcolours).  They didn't interest me too much.  One of my search took me to <a href="http://twily.info/">Twily's webpage </a>where I found his/her userscripts for Firefox.
 
