@@ -1,7 +1,5 @@
 ---
 title: Syncing OwnCloud with Outlook and Android
-date: 2016-03-24T16:47:19+00:00
-author: Frank S
 layout: post
 ---
 With online connectivity increasing ever so much year by year it is about time I 'sync' my work environment.  I've loaded up an owncloud server on my digital ocean droplet and installed the calendar app.
