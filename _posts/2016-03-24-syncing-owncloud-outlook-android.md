@@ -5,6 +5,7 @@ author: Frank S
 layout: post
 ---
 With online connectivity increasing ever so much year by year it is about time I 'sync' my work environment.  I've loaded up an owncloud server on my digital ocean droplet and installed the calendar app.
+
 <h3>Connecting Owncloud with Outlook</h3>
 <ol>
 	<li>Visit <a href="https://sourceforge.net/projects/outlookcaldavsynchronizer/">here</a></li>
