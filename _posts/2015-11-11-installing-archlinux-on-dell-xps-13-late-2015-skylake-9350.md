@@ -4,7 +4,8 @@ date: 2015-11-11T20:58:25+00:00
 author: Frank S
 layout: post
 ---
-[caption id="attachment_547" align="aligncenter" width="300"]<a href="http://frankshin.com/wp-content/uploads/2015/11/dell-xps-13-2015-product-photos-01.jpg"><img class="size-medium wp-image-547" src="http://frankshin.com/wp-content/uploads/2015/11/dell-xps-13-2015-product-photos-01-300x169.jpg" alt="dell-xps-13-2015-archlinux" width="300" height="169" /></a> dell-xps-13-2015-archlinux[/caption]
+<a href="http://frankshin.com/wp-content/uploads/2015/11/dell-xps-13-2015-product-photos-01.jpg"><img class="size-medium wp-image-547" src="http://frankshin.com/wp-content/uploads/2015/11/dell-xps-13-2015-product-photos-01-300x169.jpg" alt="dell-xps-13-2015-archlinux" width="300" height="169" /></a> 
+
 <h3>Changelog</h3>
 <ul>
 	<li>
