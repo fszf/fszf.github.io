@@ -11,6 +11,9 @@ description:    Linux Enthusiast
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/3597972?v=3&s=460 
 
+# set remote theme
+remote_theme: ankitsultana/researcher@gem
+
 #
 # Flags below are optional
 #
