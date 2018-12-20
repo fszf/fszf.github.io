@@ -1,26 +1,15 @@
 ---
-layout: default
-is_contact: true
+layout: page
+title: About
+permalink: /about/
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+Frank is a Linux enthusiast who enjoys the journey of learning and sharing.  This blog's goal is to write down his thoughts, projects, and cool newly discovered software.  
 
-* Phone: [+91-123123](tel:+91-123123)
+### Disclaimer
 
----
+It is highly recommended to always follow official documentation such as a wiki/man page/readme and never to follow his suggestions unless you fully understand what the code does.
 
-## Mailing Address
+### Contact me
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+frankshin82 at gmail
