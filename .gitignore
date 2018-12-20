@@ -5,6 +5,7 @@ _site
 .bundle
 .sass-cache
 .researcher
+.harmony
 Gemfile
 Gemfile.lock
 node_modules
