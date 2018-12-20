@@ -5,6 +5,7 @@ _site
 .bundle
 .sass-cache
 .researcher
+.thinkspace
 .harmony
 Gemfile
 Gemfile.lock
