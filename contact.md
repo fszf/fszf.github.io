@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+![Frank Shin](/assets/images/author.jpg)
 
 Frank is a Linux enthusiast who enjoys the journey of learning and sharing.  This blog's goal is to write down his thoughts, projects, and cool newly discovered software.  
 
