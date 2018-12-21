@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "Linux"
-title_right   : " Frank's Corner" # default: ""
+title_left    : "Frank's"
+title_right   : " Linux Corner" # default: ""
 description   : "Adventures within the opensource world"
 keywords      : "archlinux, linux, opensource, blog, frank604, frankshin"
 url           : https://frank604.github.io/ # site url
