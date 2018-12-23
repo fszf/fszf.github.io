@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: frankshin.com/sitemal.xml
+Sitemap: www.frankshin.com/sitemap.xml
