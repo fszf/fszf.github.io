@@ -5,7 +5,7 @@ author: Frank S
 layout: post
 ---
 &nbsp;
-<h2 style="text-align: center;"> <a href="http://frankshin.com/wp-content/uploads/2015/01/Screenshot_2015-01-26-12-35-20-e1422306921174.png"><img class="alignnone size-medium wp-image-194" src="http://frankshin.com/wp-content/uploads/2015/01/Screenshot_2015-01-26-12-35-20-169x300.png" alt="Screenshot_2015-01-26-12-35-20" width="169" height="300" /></a></h2>
+<h2 style="text-align: center;"> <a href="https://blog.f604.xyz/wp-content/uploads/2015/01/Screenshot_2015-01-26-12-35-20-e1422306921174.png"><img class="alignnone size-medium wp-image-194" src="https://blog.f604.xyz/wp-content/uploads/2015/01/Screenshot_2015-01-26-12-35-20-169x300.png" alt="Screenshot_2015-01-26-12-35-20" width="169" height="300" /></a></h2>
 <h2 style="text-align: center;">Cyanide V.4 Lollipop Note 2 Review</h2>
 I recently <a href="http://frankshin.com/ditto-note-4-for-note-2-n7100-n7105-i317/">wrote about Ditto Note 4</a> and saying how AOSP roms were getting boring.  Well, I lied.  I've been trying Lollipop roms on the Note 2 since they arrived as alpha builds, meaning there were quite a few things not working. First off, let me say that I love lollipop.  I love it more than touchwiz.  I love it more than kit kat.
 

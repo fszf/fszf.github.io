@@ -4,7 +4,7 @@ date: 2015-01-24T15:21:40+00:00
 author: Frank S
 layout: post
 ---
-Last year when I first got my Macbook Air 2013 (6,2) I immediately set off to delete Mac OSX and install a standalone Arch.  I even wrote a post about it <a href="http://frankshin.com/installing-archlinux-on-macbook-air-2013/">here</a>. At that point in time I've never used Mac OSX and wasn't interested in it.  The problem with running an Arch only setup was that my wife would get annoyed because she couldn't use my laptop.  So this winter break I reinstalled Mavericks and upgraded it to Yosemite and set off to do a dual boot setup with Arch.  My first worry was disk space.  I have a 128gb ssd drive on my MBA and splitting it in half would divide my precious data space for music and movies.
+Last year when I first got my Macbook Air 2013 (6,2) I immediately set off to delete Mac OSX and install a standalone Arch.  I even wrote a post about it <a href="https://blog.f604.xyz/installing-archlinux-on-macbook-air-2013/">here</a>. At that point in time I've never used Mac OSX and wasn't interested in it.  The problem with running an Arch only setup was that my wife would get annoyed because she couldn't use my laptop.  So this winter break I reinstalled Mavericks and upgraded it to Yosemite and set off to do a dual boot setup with Arch.  My first worry was disk space.  I have a 128gb ssd drive on my MBA and splitting it in half would divide my precious data space for music and movies.
 
 This is where the <a href="http://nl.transcend-info.com/apple/jetdrivelite/">Jetdrive</a> comes into play.  It fits snugly in the sdcard port and instantly gives me a share-able drive for data that can be accessed by both OSes.  Watch the video below for more info.
 

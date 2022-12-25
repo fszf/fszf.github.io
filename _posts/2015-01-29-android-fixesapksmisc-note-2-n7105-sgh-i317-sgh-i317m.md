@@ -4,11 +4,11 @@ date: 2015-01-29T17:10:59+00:00
 author: Frank S
 layout: post
 ---
-[caption id="attachment_264" align="aligncenter" width="187"]<a href="http://frankshin.com/wp-content/uploads/2015/01/a4y3urys-e1422580229382.jpg"><img class=" wp-image-264" src="http://frankshin.com/wp-content/uploads/2015/01/a4y3urys-e1422580229382-280x300.jpg" alt="Android Recovery" width="187" height="200" /></a> Android Recovery[/caption]
+[caption id="attachment_264" align="aligncenter" width="187"]<a href="https://blog.f604.xyz/wp-content/uploads/2015/01/a4y3urys-e1422580229382.jpg"><img class=" wp-image-264" src="https://blog.f604.xyz/wp-content/uploads/2015/01/a4y3urys-e1422580229382-280x300.jpg" alt="Android Recovery" width="187" height="200" /></a> Android Recovery[/caption]
 <h3>My Library For Note 2</h3>
 Over the years I realized how important it is to carry a library of fixes, apks, roms, kernel, gapps, etc.  I'd like to list the ones I use.  Unfortunately, I am too lazy to find the origin of each file so if you are the creator, please let me know so I can credit you or remove it if you wish.
 
-<a href="http://frankshin.com/files/android/">CLICK HERE</a> to browse the library.
+<a href="https://blog.f604.xyz/files/android/">CLICK HERE</a> to browse the library.
 
 Table of Content
 <ul>

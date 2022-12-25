@@ -4,7 +4,7 @@ date: 2015-01-28T13:19:30+00:00
 author: Frank S
 layout: post
 ---
-<a href="http://frankshin.com/wp-content/uploads/2015/01/vngvsy.png"><img class=" size-medium wp-image-226 aligncenter" src="http://frankshin.com/wp-content/uploads/2015/01/vngvsy-300x86.png" alt="vngvsy" width="300" height="86" /></a>
+<a href="https://blog.f604.xyz/wp-content/uploads/2015/01/vngvsy.png"><img class=" size-medium wp-image-226 aligncenter" src="https://blog.f604.xyz/wp-content/uploads/2015/01/vngvsy-300x86.png" alt="vngvsy" width="300" height="86" /></a>
 <h3>Time To Update?</h3>
 A new update to my favorite rom Cyanide L for N7105, SGH-I317, SGH-I317m has arrived.  Version 4.0 has been rock solid for me and is my personal daily driver for the week it's been out for.  I decided to update due to the amazing new additions in the <a href="https://plus.google.com/+JohnTaylorTheDaddyYoDude/posts/SfhwEMUdf9U">changelog</a>:
 
@@ -51,6 +51,6 @@ THANKS!
 </div>
 &nbsp;
 
-Unfortunately, with V.5.0 I could not get the proximity sensors to work with the <a href="http://frankshin.com/files/android/fixes/StereoSound&amp;InCallFIX-AOSP-Note2.zip">fix that worked for me in V.4.0</a>.  Suffice to say I exhausted all known options and sadly went back to restore a nandroid I had for V.4.0.  There is high hopes for a fix coming in soon, perhaps in the next build.  Also, this only seems to affect the "M" variant of the Note 2.  The sgh-i317's seems to have a smoother ride.
+Unfortunately, with V.5.0 I could not get the proximity sensors to work with the <a href="https://blog.f604.xyz/files/android/fixes/StereoSound&amp;InCallFIX-AOSP-Note2.zip">fix that worked for me in V.4.0</a>.  Suffice to say I exhausted all known options and sadly went back to restore a nandroid I had for V.4.0.  There is high hopes for a fix coming in soon, perhaps in the next build.  Also, this only seems to affect the "M" variant of the Note 2.  The sgh-i317's seems to have a smoother ride.
 
 &nbsp;

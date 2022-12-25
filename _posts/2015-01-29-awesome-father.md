@@ -4,7 +4,7 @@ date: 2015-01-29T13:41:57+00:00
 author: Frank S
 layout: post
 ---
-[caption id="attachment_258" align="aligncenter" width="225"]<a href="http://frankshin.com/wp-content/uploads/2015/01/olivia.jpg"><img class="size-medium wp-image-258" src="http://frankshin.com/wp-content/uploads/2015/01/olivia-225x300.jpg" alt="olivia shin" width="225" height="300" /></a> Olivia Shin yawning on grandma's lap[/caption]
+[caption id="attachment_258" align="aligncenter" width="225"]<a href="https://blog.f604.xyz/wp-content/uploads/2015/01/olivia.jpg"><img class="size-medium wp-image-258" src="https://blog.f604.xyz/wp-content/uploads/2015/01/olivia-225x300.jpg" alt="olivia shin" width="225" height="300" /></a> Olivia Shin yawning on grandma's lap[/caption]
 <h3>I'm Pregnant (No! Not Me You Fool!)</h3>
 That moment when your wife comes up to you smiling, you already know deep down inside what she is about to say -- I'm Pregnant!!! This is the moment in my life where everything becomes surreal.  No longer was I just a regular joe, eating Doritos and Coca Cola while browsing the web.  I am now a role model, a protector, a teacher ... a FATHER?!  Ahhh~  As my wife's belly grew and grew, I went through judgement day.  What kind of human do I want to be portrayed as?  What are my good characteristics?  What are bad hobbies of mine?  The list goes on and on.  No father in their right mind wants to be a bad father by choice.
 <h3>The Cries Of The Baby</h3>

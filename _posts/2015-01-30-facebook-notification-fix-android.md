@@ -4,7 +4,7 @@ date: 2015-01-30T14:39:20+00:00
 author: Frank S
 layout: post
 ---
-<a href="http://frankshin.com/wp-content/uploads/2015/01/top.png"><img class="  wp-image-337 aligncenter" src="http://frankshin.com/wp-content/uploads/2015/01/top.png" alt="top" width="91" height="91" /></a>
+<a href="https://blog.f604.xyz/wp-content/uploads/2015/01/top.png"><img class="  wp-image-337 aligncenter" src="https://blog.f604.xyz/wp-content/uploads/2015/01/top.png" alt="top" width="91" height="91" /></a>
 
 &nbsp;
 <h3>Facebook Notification Fix For Android</h3>
@@ -12,7 +12,7 @@ For the longest time Facebook has never popped up a notification for me on my Sa
 
 <strong>Step 1:</strong>
 
-<a href="http://frankshin.com/wp-content/uploads/2015/01/1.png"><img class="alignnone size-medium wp-image-334" src="http://frankshin.com/wp-content/uploads/2015/01/1-207x300.png" alt="1" width="207" height="300" /></a>
+<a href="https://blog.f604.xyz/wp-content/uploads/2015/01/1.png"><img class="alignnone size-medium wp-image-334" src="https://blog.f604.xyz/wp-content/uploads/2015/01/1-207x300.png" alt="1" width="207" height="300" /></a>
 
 Login with your pc and go to 'Settings'.  You can do this on Android but it takes more time to do what we need to do.
 
@@ -20,7 +20,7 @@ Login with your pc and go to 'Settings'.  You can do this on Android but it tak
 
 <strong>Step 2:</strong>
 
-<a href="http://frankshin.com/wp-content/uploads/2015/01/2.png"><img class="alignnone size-medium wp-image-335" src="http://frankshin.com/wp-content/uploads/2015/01/2-300x244.png" alt="2" width="300" height="244" /></a>
+<a href="https://blog.f604.xyz/wp-content/uploads/2015/01/2.png"><img class="alignnone size-medium wp-image-335" src="https://blog.f604.xyz/wp-content/uploads/2015/01/2-300x244.png" alt="2" width="300" height="244" /></a>
 
 Go to 'Apps' on the left side.
 

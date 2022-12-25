@@ -32,7 +32,7 @@ I ran:
 
 Then I scrolled up and saw that interrupt gpe66 had over 10,000 interrupts. This was the culprit! However, disabling it would prove to be challenging. I tried crontab commands to start at reboot, manually doing it, and everything in between. I was desperate at this point to disable this ill begotton son of interrupt.
 
-Thankfully <a href="http://loicpefferkorn.net/2015/01/arch-linux-on-macbook-pro-retina-2014-with-dm-crypt-lvm-and-suspend-to-disk/">some dude, who blogged his own adventures in Archlinux with his Macbook Pro,</a> posted his solution, which was to create a service for systemd.  As an addition, I found that gpe4E also needed to be muted.  You can download both <a href="https://github.com/frank604/configs/tree/master/system">service files from my github</a>.
+Thankfully <a href="http://loicpefferkorn.net/2015/01/arch-linux-on-macbook-pro-retina-2014-with-dm-crypt-lvm-and-suspend-to-disk/">some dude, who blogged his own adventures in Archlinux with his Macbook Pro,</a> posted his solution, which was to create a service for systemd.  As an addition, I found that gpe4E also needed to be muted.  You can download both <a href="https://github.com/fszf/configs/tree/master/system">service files from my github</a>.
 
 Also, <a href="https://bbs.archlinux.org/viewtopic.php?pid=1497798#p1497798">step-2 from the archforums </a>mentioned that Yosemite has an update to 10.10.2 which resolves this issue.  For dual booters, this is a good fix but for Arch only installs, the service method is the best bet.  Unless you want to reinstall mac osx.
 

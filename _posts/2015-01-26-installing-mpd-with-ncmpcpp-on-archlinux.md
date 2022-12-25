@@ -4,7 +4,7 @@ date: 2015-01-26T19:14:43+00:00
 author: Frank S
 layout: post
 ---
-<h3><a href="http://frankshin.com/wp-content/uploads/2015/01/2015-01-26-191341_1440x900_scrot.png"><img class=" size-medium wp-image-217 aligncenter" src="http://frankshin.com/wp-content/uploads/2015/01/2015-01-26-191341_1440x900_scrot-300x188.png" alt="2015-01-26-191341_1440x900_scrot" width="300" height="188" /></a></h3>
+<h3><a href="https://blog.f604.xyz/wp-content/uploads/2015/01/2015-01-26-191341_1440x900_scrot.png"><img class=" size-medium wp-image-217 aligncenter" src="https://blog.f604.xyz/wp-content/uploads/2015/01/2015-01-26-191341_1440x900_scrot-300x188.png" alt="2015-01-26-191341_1440x900_scrot" width="300" height="188" /></a></h3>
 <h3>Installing MPD with NCMPCPP on Archlinux</h3>
 "<b><a class="external text" href="http://www.musicpd.org/" rel="nofollow">MPD</a></b> (<b>m</b>usic <b>p</b>layer <b>d</b>aemon) is an audio player that has a server-client architecture. It plays audio files, organizes playlists and maintains a music database all while using very few resources. In order to interface with it, a separate <a href="https://wiki.archlinux.org/index.php/Music_Player_Daemon#Clients">client</a> is needed." - <a href="https://wiki.archlinux.org/index.php/Music_Player_Daemon">Archwiki</a>
 <h3>Install MPD-GIT from AUR</h3>

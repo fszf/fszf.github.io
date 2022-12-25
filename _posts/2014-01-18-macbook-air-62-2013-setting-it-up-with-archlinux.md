@@ -38,7 +38,7 @@ January 29 2015
 </ul>
 <strong>January 18 2014</strong>
 <ul>
-	<li>Originally, this post's content was in my <a href="http://www.frankshin.com/installing-archlinux-on-macbook-air-2013/">previous post here</a>.  However, the length grew as more items were added to the list.  Below you will find my most current setup/tips.</li>
+	<li>Originally, this post's content was in my <a href="https://blog.f604.xyz/installing-archlinux-on-macbook-air-2013/">previous post here</a>.  However, the length grew as more items were added to the list.  Below you will find my most current setup/tips.</li>
 </ul>
 <h3>Credit:</h3>
 Written below is a grouping of information spread out across the forums, wiki, and personal experience in implementing them.  I provided a step by step instruction for the lazy.  However, please be aware of what each implementation does prior by reading the wiki or google-fu.
@@ -71,7 +71,7 @@ Option "PalmMinWidth" "20"
 Option "PalmMinZ" "200"
 EndSection</del></pre>
 <h3>Kernel Parameters</h3>
-<blockquote>Note: The below steps are valid if your <a href="http://www.frankshin.com/installing-archlinux-on-macbook-air-2013/">installation process is same as mine</a>.</blockquote>
+<blockquote>Note: The below steps are valid if your <a href="https://blog.f604.xyz/installing-archlinux-on-macbook-air-2013/">installation process is same as mine</a>.</blockquote>
 I edited the /etc/default/grub line 4 to show the following
 <pre>GRUB_CMDLINE_LINUX_DEFAULT="quiet acpi_osi= libata.force=1:noncq i195.i195_enable_rc6=1 resume=/dev/sda3</pre>
 You can take out the 'quiet' parameter for debugging.  The only must haves from above for my setup are the libata.force=1:noncq and resume=/dev/sda3.
@@ -194,4 +194,4 @@ Un tar the file and read the README I wrote in there.  It will provide examples
 
 &nbsp;
 <h3>Cpu Freq / Overheating / Battery Drain</h3>
-Continue reading onto my next post about <a href="http://frankshin.com/macbook-air-2013-62-getting-too-hot-to-handle-how-to-fix-it-wip/">cpu frequency control, overheating laptop, and battery drain.</a>
+Continue reading onto my next post about <a href="https://blog.f604.xyz/macbook-air-2013-62-getting-too-hot-to-handle-how-to-fix-it-wip/">cpu frequency control, overheating laptop, and battery drain.</a>

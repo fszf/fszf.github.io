@@ -10,11 +10,11 @@ DWM has been my WM of choice due to its simplicity, written in C, and a good kno
 
 Below is my clean desktop.  I went with a blue grey color scheme which would be easy on the eyes and easy to find the information at a glance.
 
-<a href="http://frankshin.com/wp-content/uploads/2014/03/ss41.png"><img class="alignnone size-full wp-image-119" src="http://frankshin.com/wp-content/uploads/2014/03/ss41.png" alt="ss4" width="400" height="250" /></a>
+<a href="https://blog.f604.xyz/wp-content/uploads/2014/03/ss41.png"><img class="alignnone size-full wp-image-119" src="https://blog.f604.xyz/wp-content/uploads/2014/03/ss41.png" alt="ss4" width="400" height="250" /></a>
 
 Below is my workspace.  I have part of my config.h displaying, rtorrent, weechat, and ranger.
 
-<a href="http://frankshin.com/wp-content/uploads/2014/03/ss51.png"><img class="alignnone size-full wp-image-120" style="margin-top: 22.09375px; margin-bottom: 22.09375px;" src="http://frankshin.com/wp-content/uploads/2014/03/ss51.png" alt="ss5" width="400" height="250" /></a>
+<a href="https://blog.f604.xyz/wp-content/uploads/2014/03/ss51.png"><img class="alignnone size-full wp-image-120" style="margin-top: 22.09375px; margin-bottom: 22.09375px;" src="https://blog.f604.xyz/wp-content/uploads/2014/03/ss51.png" alt="ss5" width="400" height="250" /></a>
 
 Hrm, on another thought, I'll have to add in my script and config even if you can find it on github.com/frank604 so that I can 'freeze' the settings here on my blog.
 
@@ -22,12 +22,12 @@ Hrm, on another thought, I'll have to add in my script and config even if you ca
 
 Edit:  NEW SCREENSHOTS!!  March 10 2014 update!!
 
-<a href="http://frankshin.com/wp-content/uploads/2014/03/screenshot1.png"><img class="alignnone size-full wp-image-130" src="http://frankshin.com/wp-content/uploads/2014/03/screenshot1.png" alt="screenshot" width="400" height="250" /></a> <a href="http://frankshin.com/wp-content/uploads/2014/03/screenbusy1.png"><img class="alignnone size-medium wp-image-132" src="http://frankshin.com/wp-content/uploads/2014/03/screenbusy1.png" alt="screenbusy" width="400" height="250" /></a>
+<a href="https://blog.f604.xyz/wp-content/uploads/2014/03/screenshot1.png"><img class="alignnone size-full wp-image-130" src="https://blog.f604.xyz/wp-content/uploads/2014/03/screenshot1.png" alt="screenshot" width="400" height="250" /></a> <a href="http://frankshin.com/wp-content/uploads/2014/03/screenbusy1.png"><img class="alignnone size-medium wp-image-132" src="http://frankshin.com/wp-content/uploads/2014/03/screenbusy1.png" alt="screenbusy" width="400" height="250" /></a>
 
 So the strangest thing happened.  Last night I couldn't sleep so I found a different patchset that was close to what I wanted and then patched in cycle and push.  Now this change makes my DWM complete.  However, I did have to rewrite my config.h and I also took some time out to touch up my statusbar.
 
-The new patchset is in my <a href="https://github.com/frank604/dwm">github</a>.  This is based off of <a href="https://github.com/KieranQuinn/dwm.git">Kieran Quinn's dwm</a>.  I modified JasonWRyan's copy of Push and Cycle patches from his <a href="https://bitbucket.org/jasonwryan/dwm-patchset/src">bitbucket</a> to work with Kieran's patchset
-<h3><a href="http://www.frankshin.com/dwm-archlinux-patchset-description/">Read about Patches and Description on next post</a></h3>
+The new patchset is in my <a href="https://github.com/fszf/dwm">github</a>.  This is based off of <a href="https://github.com/KieranQuinn/dwm.git">Kieran Quinn's dwm</a>.  I modified JasonWRyan's copy of Push and Cycle patches from his <a href="https://bitbucket.org/jasonwryan/dwm-patchset/src">bitbucket</a> to work with Kieran's patchset
+<h3><a href="https://blog.f604.xyz/dwm-archlinux-patchset-description/">Read about Patches and Description on next post</a></h3>
 config.h
 <pre>#define NUMCOLORS       13
 #define MODKEY          Mod4Mask

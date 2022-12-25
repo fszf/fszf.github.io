@@ -4,7 +4,7 @@ date: 2015-01-28T14:23:45+00:00
 author: Frank S
 layout: post
 ---
-<a href="http://frankshin.com/wp-content/uploads/2015/01/2015-01-28-133518_1440x900_scrot.png"><img class=" size-medium wp-image-233 aligncenter" src="http://frankshin.com/wp-content/uploads/2015/01/2015-01-28-133518_1440x900_scrot-300x188.png" alt="2015-01-28-133518_1440x900_scrot" width="300" height="188" /></a>
+<a href="https://blog.f604.xyz/wp-content/uploads/2015/01/2015-01-28-133518_1440x900_scrot.png"><img class=" size-medium wp-image-233 aligncenter" src="https://blog.f604.xyz/wp-content/uploads/2015/01/2015-01-28-133518_1440x900_scrot-300x188.png" alt="2015-01-28-133518_1440x900_scrot" width="300" height="188" /></a>
 <h3>Solarized RXVT with VIM</h3>
 It is pretty common for a linux user to spend most of his/her time in a terminal.  We enjoy the low overhead, responsiveness, and customizeability of cli programs.  It is critical that we find a color scheme that is not only pleasant to look at but is functional and easy to read.  I've been using various color schemes throughout the year and although I knew about <a href="solarized%20by Ethan Schoonover">solarized by Ethan Schoonover</a> I've never personally tried it out - until yesterday!
 <h3>Installing Solarized - RXVT</h3>
@@ -17,7 +17,7 @@ cd rxvt-unicode-patched
 makepkg -s --skipinteg
 pacman -U rxvt-unicode-patched-9.21-1-x86_64.pkg.tar.xz
 </code></pre>
-You will need to download the solarized color scheme either at Ethan's github or from <a href="https://raw.githubusercontent.com/frank604/dotfiles/master/.colours/solarized">here</a>.  Save it in your ~/.colours folder or wherever you store your color schemes.
+You will need to download the solarized color scheme either at Ethan's github or from <a href="https://raw.githubusercontent.com/fszf/dotfiles/master/.colours/solarized">here</a>.  Save it in your ~/.colours folder or wherever you store your color schemes.
 
 Your .Xresources should include:
 <pre><code>#include "/home/frank604/.colours/solarized" &lt;-- Obviously modify it to where you saved the color scheme</code></pre>
