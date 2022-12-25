@@ -3,7 +3,7 @@ title_left    : "fszf"
 title_right   : " blog" # default: ""
 description   : "My life, my world, on screen"
 keywords      : "archlinux, linux, opensource, blog, frank604, frankshin, f604, fszf"
-url           : https://fszf.github.io/ # site url
+url           : https://fszf.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
