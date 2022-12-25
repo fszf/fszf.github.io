@@ -3,7 +3,7 @@ title: Installing Archlinux on Macbook Air 2013
 date: 2014-01-13T22:49:39+00:00
 layout: post
 ---
-<a href="http://frankshin.com/wp-content/uploads/2014/01/FreedomX-1301141.png"><img class="wp-image-32 " src="http://frankshin.com/wp-content/uploads/2014/01/FreedomX-1301141.png" alt="Macbook Air 6,2 Archlinux" width="424" height="265" /></a> 
+<a href="https://blog.f604.xyz/wp-content/uploads/2014/01/FreedomX-1301141.png"><img class="wp-image-32 " src="https://blog.f604.xyz/wp-content/uploads/2014/01/FreedomX-1301141.png" alt="Macbook Air 6,2 Archlinux" width="424" height="265" /></a> 
 
 > Macbook Air 6,2 Archlinux (config from Jason W Ryan @ https://bitbucket.org/jasonwryan)
 
