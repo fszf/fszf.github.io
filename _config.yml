@@ -3,7 +3,7 @@ title_left    : "Frank's"
 title_right   : " Linux Corner" # default: ""
 description   : "Adventures within the opensource world"
 keywords      : "archlinux, linux, opensource, blog, frank604, frankshin"
-url           : https://frank604.github.io/ # site url
+url           : https://fszf.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 

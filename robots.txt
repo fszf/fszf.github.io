@@ -1,2 +1,3 @@
 User-agent: *
-Sitemap: www.frankshin.com/sitemap.xml
+Sitemap: blog.f604.xyz/sitemap.xml
+#Sitemap: www.frankshin.com/sitemap.xml
