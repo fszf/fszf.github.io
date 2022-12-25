@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "F604"
-title_right   : "BLOG" # default: ""
+title_left    : "fszf"
+title_right   : " blog" # default: ""
 description   : "My life, my world, on screen"
 keywords      : "archlinux, linux, opensource, blog, frank604, frankshin, f604, fszf"
 url           : https://fszf.github.io/ # site url
@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name     : "Frank Shin"
+  name     : "fszf"
 
 plugins:
   - jekyll-sitemap
