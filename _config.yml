@@ -1,8 +1,8 @@
 # Site settings
-title_left    : "Frank's"
-title_right   : " Linux Corner" # default: ""
-description   : "Adventures within the opensource world"
-keywords      : "archlinux, linux, opensource, blog, frank604, frankshin"
+title_left    : "F604"
+title_right   : "BLOG" # default: ""
+description   : "My life, my world, on screen"
+keywords      : "archlinux, linux, opensource, blog, frank604, frankshin, f604, fszf"
 url           : https://fszf.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
